@@ -1,0 +1,1087 @@
+﻿Log file open, 02/13/18 22:50:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: AceLikeFlying_BP
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-861162151) SRandInit(-861162151).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.164820
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: G:/UNREAL4/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.13-14.50.49:078][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.13-14.50.49:078][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.13-14.50.49:088][  0]LogInit: Computer: DESKTOP-TB1KE8F
+[2018.02.13-14.50.49:088][  0]LogInit: User: 91277
+[2018.02.13-14.50.49:088][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.13-14.50.49:088][  0]LogInit: High frequency timer resolution =3.906243 MHz
+[2018.02.13-14.50.49:088][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.13-14.50.49:088][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.13-14.50.49:088][  0]LogMemory: Process Physical Memory: 274.33 MB used, 274.33 MB peak
+[2018.02.13-14.50.49:088][  0]LogMemory: Process Virtual Memory: 272.21 MB used, 272.21 MB peak
+[2018.02.13-14.50.49:088][  0]LogMemory: Physical Memory: 6715.04 MB used,  9611.22 MB free, 16326.26 MB total
+[2018.02.13-14.50.49:088][  0]LogMemory: Virtual Memory: 651.52 MB used,  9611.22 MB free, 134217728.00 MB total
+[2018.02.13-14.50.49:191][  0]LogInit: Using OS detected language (zh-CN).
+[2018.02.13-14.50.49:191][  0]LogInit: Using OS detected locale (zh-CN).
+[2018.02.13-14.50.49:298][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.13-14.50.49:504][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.13-14.50.49:543][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2018.02.13-14.50.49:543][  0]LogD3D11RHI:       2017/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.13-14.50.49:544][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.13-14.50.49:544][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.13-14.50.49:544][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.13-14.50.49:548][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.13-14.50.49:548][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.13-14.50.49:548][  0]LogWindows: EnumDisplayDevices:
+[2018.02.13-14.50.49:548][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2018.02.13-14.50.49:548][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2018.02.13-14.50.49:549][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2018.02.13-14.50.49:549][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2018.02.13-14.50.49:549][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.02.13-14.50.49:549][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2018.02.13-14.50.49:549][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.02.13-14.50.49:549][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.02.13-14.50.49:549][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2018.02.13-14.50.49:575][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.13-14.50.49:586][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.13-14.50.49:588][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (H:/UnrealProjects/AceLikeFlying_BP/Intermediate/Shaders/WorkingDirectory/13248/).
+[2018.02.13-14.50.49:589][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/91277/AppData/Local/Temp/UnrealShaderWorkingDir/2C5477D34C7CBE086F8C40AD2C6DA439/'.
+[2018.02.13-14.50.49:589][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.13-14.50.50:459][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.13-14.50.50:499][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.13-14.50.50:535][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.13-14.50.50:570][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.13-14.50.50:608][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.13-14.50.50:646][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.13-14.50.50:682][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.13-14.50.50:716][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.13-14.50.50:746][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.13-14.50.50:784][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.13-14.50.50:820][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.13-14.50.50:854][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.13-14.50.50:888][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.13-14.50.50:921][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.13-14.50.50:994][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.13-14.50.50:994][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.13-14.50.51:028][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.13-14.50.51:052][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.13-14.50.51:120][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.13-14.50.51:142][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.13-14.50.51:182][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.13-14.50.51:221][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.13-14.50.51:255][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.13-14.50.51:289][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.13-14.50.51:290][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.13-14.50.51:726][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.13-14.50.51:794][  0]LogDerivedDataCache: Loaded boot cache 0.07s 79MB C:/Users/91277/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.13-14.50.51:794][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/91277/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.13-14.50.51:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file H:/UnrealProjects/AceLikeFlying_BP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.13-14.50.51:794][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.13-14.50.51:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file H:/UnrealProjects/AceLikeFlying_BP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.13-14.50.51:794][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.13-14.50.51:813][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.13-14.50.51:825][  0]LogDerivedDataCache: Using Local data cache path C:/Users/91277/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.13-14.50.51:833][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.13-14.50.51:833][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.13-14.50.51:834][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.13-14.50.51:834][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.13-14.50.52:170][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.13-14.50.52:431][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.13-14.50.52:455][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.13-14.50.52:455][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.13-14.50.52:455][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.13-14.50.52:455][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.13-14.50.52:455][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.13-14.50.52:480][  0]LogNetVersion: AceLikeFlying_BP , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2844073337)
+[2018.02.13-14.50.52:612][  0]LogAssetRegistry: FAssetRegistry took 0.0249 seconds to start up
+[2018.02.13-14.50.53:051][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 4 prioritized culture(s) in 0.084998 seconds
+[2018.02.13-14.50.53:057][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.13-14.50.53:057][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.13-14.50.53:057][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.13-14.50.53:091][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.13-14.50.55:033][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.13-14.50.55:064][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.13-14.50.55:567][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.13-14.50.55:868][  0]SourceControl: 源码控制已禁用
+[2018.02.13-14.50.55:868][  0]SourceControl: 源码控制已禁用
+[2018.02.13-14.50.55:903][  0]SourceControl: 源码控制已禁用
+[2018.02.13-14.50.55:936][  0]SourceControl: 源码控制已禁用
+[2018.02.13-14.50.56:480][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.13-14.50.56:661][  0]LogOcInput: OculusInput pre-init called
+[2018.02.13-14.50.56:857][  0]LogEngine: Initializing Engine...
+[2018.02.13-14.50.56:859][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.13-14.50.57:038][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.13-14.50.57:039][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.13-14.50.57:127][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.13-14.50.57:134][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-14.50.57:168][  0]LogInit: FAudioDevice initialized.
+[2018.02.13-14.50.57:332][  0]LogDerivedDataCache: Saved boot cache 0.16s 79MB C:/Users/91277/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.13-14.50.57:341][  0]LogInit: Texture streaming: Enabled
+[2018.02.13-14.50.57:404][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.13-14.50.57:424][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={4917442A-4998-8B68-5C68-09AFDD6CA463}
+[2018.02.13-14.50.57:508][  0]LogInit: Transaction tracking system initialized
+[2018.02.13-14.50.57:713][  0]BlueprintLog: New page: 编辑器加载
+[2018.02.13-14.50.58:302][  0]LocalizationService: 本地化服务已被禁用
+[2018.02.13-14.50.58:781][  0]LogConsoleResponse: Display: 
+[2018.02.13-14.50.58:919][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.13-14.50.58:919][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.13-14.50.58:919][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.13-14.50.59:262][  0]LogFileCache: Scanning file cache for directory 'H:/UnrealProjects/AceLikeFlying_BP/Content/' took 0.01s
+[2018.02.13-14.50.59:694][  0]SourceControl: 源码控制已禁用
+[2018.02.13-14.50.59:694][  0]Cmd: MAP LOAD FILE="H:/UnrealProjects/AceLikeFlying_BP/Content/FlyingBP/Maps/FlyingExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.13-14.50.59:694][  0]LightingResults: New page: 光照构建
+[2018.02.13-14.50.59:722][  0]MapCheck: New page: 地图检测
+[2018.02.13-14.50.59:722][  0]LightingResults: New page: 光照构建
+[2018.02.13-14.51.00:011][  0]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-14.51.00:021][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.13-14.51.00:036][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.13-14.51.00:069][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时32.828毫秒完成。
+[2018.02.13-14.51.00:069][  0]LogFileHelpers: Loading map 'FlyingExampleMap' took 0.375
+[2018.02.13-14.51.00:179][  0]LogCollectionManager: Loaded 0 collections in 0.001178 seconds
+[2018.02.13-14.51.00:259][  0]LogFileCache: Scanning file cache for directory 'H:/UnrealProjects/AceLikeFlying_BP/Saved/Collections/' took 0.01s
+[2018.02.13-14.51.00:259][  0]LogFileCache: Scanning file cache for directory 'H:/UnrealProjects/AceLikeFlying_BP/Content/Developers/91277/Collections/' took 0.01s
+[2018.02.13-14.51.00:259][  0]LogFileCache: Scanning file cache for directory 'H:/UnrealProjects/AceLikeFlying_BP/Content/Collections/' took 0.01s
+[2018.02.13-14.51.00:259][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.13-14.51.00:267][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2363 classes and 519 folders.
+[2018.02.13-14.51.00:310][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.13-14.51.00:340][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.13-14.51.00:369][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.13-14.51.00:480][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.13-14.51.00:480][  0]LogLoad: (Engine Initialization) Total time: 13.15 seconds
+[2018.02.13-14.51.00:480][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.13-14.51.00:481][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.13-14.51.00:481][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.13-14.51.00:841][  0]LogAssetRegistry: Asset discovery search completed in 8.2502 seconds
+[2018.02.13-14.51.00:843][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.13-14.51.00:843][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000098 seconds (updated 0 objects)
+[2018.02.13-14.51.00:845][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.13-14.51.00:852][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.13-14.51.00:855][  0]LogSlate: Took 0.002146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.02.13-14.51.00:855][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.13-14.51.00:858][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.13-14.51.00:940][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.13-14.51.01:191][  2]LogRenderer: Reallocating scene render targets to support 648x360 Format 10 NumSamples 1 (Frame:1).
+[2018.02.13-14.51.01:823][  3]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.13-14.51.04:498][ 11]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.13-14.51.04:739][ 11]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.02.13-14.51.05:306][ 11]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.13-14.51.05:568][ 12]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.13-14.51.10:323][503]LogRenderer: Reallocating scene render targets to support 976x576 Format 10 NumSamples 1 (Frame:220).
+[2018.02.13-14.51.19:235][505]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.13-14.51.20:262][623]BlueprintLog: New page: 编译FlyingGameMode
+[2018.02.13-14.51.21:848][792]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-14.51.21:884][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-14.51.21:884][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-14.51.21:884][792]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午6:51:21)
+[2018.02.13-14.51.21:885][792]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-14.51.21:913][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028395s)
+[2018.02.13-14.51.21:914][792]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-14.51.21:915][792]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2018.02.13-14.51.21:915][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.030301s)
+[2018.02.13-14.51.21:936][792]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-14.51.21:966][792]LogInit: FAudioDevice initialized.
+[2018.02.13-14.51.22:013][792]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-14.51.22:017][792]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-22.51.22
+[2018.02.13-14.51.22:018][792]LogWorld: Bringing up level for play took: 0.003879
+[2018.02.13-14.51.22:044][792]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.02.13-14.51.22:046][792]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间-0.117
+[2018.02.13-14.51.22:046][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-14.51.26:878][366]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-14.51.26:909][366]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-14.51.32:489][919]LogRenderer: Reallocating scene render targets to support 1068x900 Format 10 NumSamples 1 (Frame:1).
+[2018.02.13-14.51.38:384][620]BlueprintLog: New page: 编译FlyingPawn
+[2018.02.13-14.51.39:016][661]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-14.51.39:035][661]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-14.51.39:035][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-14.51.39:035][661]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午6:51:39)
+[2018.02.13-14.51.39:035][661]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-14.51.39:055][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019717s)
+[2018.02.13-14.51.39:056][661]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-14.51.39:056][661]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2018.02.13-14.51.39:056][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.020859s)
+[2018.02.13-14.51.39:077][661]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-14.51.39:107][661]LogInit: FAudioDevice initialized.
+[2018.02.13-14.51.39:144][661]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-14.51.39:148][661]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-22.51.39
+[2018.02.13-14.51.39:149][661]LogWorld: Bringing up level for play took: 0.004103
+[2018.02.13-14.51.39:152][661]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.989
+[2018.02.13-14.51.39:152][661]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-14.51.39:197][661]LogRenderer: Reallocating scene render targets to support 1292x900 Format 10 NumSamples 1 (Frame:1).
+[2018.02.13-14.51.49:307][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-14.51.49:351][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.01.16:760][850]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FlyingBP/Maps/FlyingExampleMap' took 0.045
+[2018.02.13-15.01.16:762][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FlyingBP/Blueprints/FlyingGameMode] ([1] browsable assets)...
+[2018.02.13-15.01.16:762][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlyingBP/Blueprints/FlyingGameMode]
+[2018.02.13-15.01.17:017][850]LogSavePackage: Save=244.70ms
+[2018.02.13-15.01.17:018][850]LogSavePackage: Moving 'H:/UnrealProjects/AceLikeFlying_BP/Saved/FlyingGameMode_Auto12A0A0D1343820CE09954248BD27BDFBB.tmp' to 'H:/UnrealProjects/AceLikeFlying_BP/Saved/Autosaves/Game/FlyingBP/Blueprints/FlyingGameMode_Auto1.uasset'
+[2018.02.13-15.01.17:019][850]LogSavePackage: Display: Finished SavePackage H:/UnrealProjects/AceLikeFlying_BP/Saved/Autosaves/Game/FlyingBP/Blueprints/FlyingGameMode_Auto1.uasset
+[2018.02.13-15.01.17:021][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FlyingBP/Blueprints/FlyingPawn] ([1] browsable assets)...
+[2018.02.13-15.01.17:058][850]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FlyingBP/Blueprints/FlyingPawn.FlyingPawn]
+[2018.02.13-15.01.17:058][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlyingBP/Blueprints/FlyingPawn]
+[2018.02.13-15.01.17:058][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/Blueprints/FlyingPawn" FILE="H:/UnrealProjects/AceLikeFlying_BP/Saved/Autosaves/Game/FlyingBP/Blueprints/FlyingPawn_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.13-15.01.17:243][850]LogSavePackage: Save=169.18ms
+[2018.02.13-15.01.17:243][850]LogSavePackage: Moving 'H:/UnrealProjects/AceLikeFlying_BP/Saved/FlyingPawn_Auto1C2AADDE646DA64D29F7889A82A0526F8.tmp' to 'H:/UnrealProjects/AceLikeFlying_BP/Saved/Autosaves/Game/FlyingBP/Blueprints/FlyingPawn_Auto1.uasset'
+[2018.02.13-15.01.17:244][850]LogSavePackage: Display: Finished SavePackage H:/UnrealProjects/AceLikeFlying_BP/Saved/Autosaves/Game/FlyingBP/Blueprints/FlyingPawn_Auto1.uasset
+[2018.02.13-15.01.17:244][850]LogFileHelpers: Auto-saving content packages took 0.483
+[2018.02.13-15.01.24:583][239]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.13-15.01.26:765][499]BlueprintLog: New page: 编译FlyingGameMode
+[2018.02.13-15.01.27:942][620]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.01.27:964][620]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.01.27:964][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.01.27:964][620]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:01:27)
+[2018.02.13-15.01.27:964][620]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.01.27:986][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021468s)
+[2018.02.13-15.01.27:987][620]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.01.27:987][620]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2018.02.13-15.01.27:988][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.023190s)
+[2018.02.13-15.01.28:009][620]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.01.28:038][620]LogInit: FAudioDevice initialized.
+[2018.02.13-15.01.28:073][620]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.01.28:077][620]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.01.28
+[2018.02.13-15.01.28:078][620]LogWorld: Bringing up level for play took: 0.004079
+[2018.02.13-15.01.28:079][620]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间-0.083
+[2018.02.13-15.01.28:080][620]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.01.42:424][336]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.01.42:455][336]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.02.36:995][751]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.02.37:595][788]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.02.37:617][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.02.37:617][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.02.37:617][788]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:02:37)
+[2018.02.13-15.02.37:617][788]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.02.37:637][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020405s)
+[2018.02.13-15.02.37:638][788]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.02.37:639][788]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2018.02.13-15.02.37:639][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.021985s)
+[2018.02.13-15.02.37:661][788]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.02.37:690][788]LogInit: FAudioDevice initialized.
+[2018.02.13-15.02.37:732][788]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.02.37:736][788]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.02.37
+[2018.02.13-15.02.37:737][788]LogWorld: Bringing up level for play took: 0.004069
+[2018.02.13-15.02.37:742][788]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间-0.42
+[2018.02.13-15.02.37:743][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.02.47:565][957]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.02.47:609][957]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.03.31:207][ 48]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.03.32:128][122]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.03.32:149][122]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.03.32:150][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.03.32:150][122]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:03:32)
+[2018.02.13-15.03.32:150][122]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.03.32:170][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019837s)
+[2018.02.13-15.03.32:171][122]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.03.32:171][122]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2018.02.13-15.03.32:171][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.021380s)
+[2018.02.13-15.03.32:192][122]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.03.32:221][122]LogInit: FAudioDevice initialized.
+[2018.02.13-15.03.32:263][122]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.03.32:270][122]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.03.32
+[2018.02.13-15.03.32:270][122]LogWorld: Bringing up level for play took: 0.006613
+[2018.02.13-15.03.32:280][122]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.117
+[2018.02.13-15.03.32:280][122]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.03.39:552][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.03.39:596][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.04.11:395][782]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.04.11:415][782]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.04.11:416][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.04.11:416][782]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:04:11)
+[2018.02.13-15.04.11:416][782]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.04.11:434][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018414s)
+[2018.02.13-15.04.11:435][782]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.04.11:435][782]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2018.02.13-15.04.11:436][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.019712s)
+[2018.02.13-15.04.11:456][782]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.04.11:485][782]LogInit: FAudioDevice initialized.
+[2018.02.13-15.04.11:523][782]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.04.11:527][782]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.04.11
+[2018.02.13-15.04.11:528][782]LogWorld: Bringing up level for play took: 0.003765
+[2018.02.13-15.04.11:533][782]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间-0.629
+[2018.02.13-15.04.11:534][782]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.04.23:527][214]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.04.23:568][214]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.04.26:272][536]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.04.26:293][536]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.04.26:293][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.04.26:293][536]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:04:26)
+[2018.02.13-15.04.26:293][536]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.04.26:311][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017864s)
+[2018.02.13-15.04.26:312][536]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.04.26:312][536]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2018.02.13-15.04.26:312][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.018921s)
+[2018.02.13-15.04.26:334][536]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.04.26:362][536]LogInit: FAudioDevice initialized.
+[2018.02.13-15.04.26:404][536]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.04.26:409][536]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.04.26
+[2018.02.13-15.04.26:409][536]LogWorld: Bringing up level for play took: 0.004271
+[2018.02.13-15.04.26:415][536]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.253
+[2018.02.13-15.04.26:416][536]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.04.30:980][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.04.31:023][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.05.43:158][671]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.08.00:681][959]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.08.20:193][260]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.08.21:022][325]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.08.21:042][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.08.21:043][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.08.21:043][325]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:08:21)
+[2018.02.13-15.08.21:043][325]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.08.21:064][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020758s)
+[2018.02.13-15.08.21:064][325]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.08.21:065][325]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2018.02.13-15.08.21:065][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.022005s)
+[2018.02.13-15.08.21:086][325]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.08.21:114][325]LogInit: FAudioDevice initialized.
+[2018.02.13-15.08.21:152][325]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.08.21:157][325]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.08.21
+[2018.02.13-15.08.21:157][325]LogWorld: Bringing up level for play took: 0.004272
+[2018.02.13-15.08.21:163][325]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间1
+[2018.02.13-15.08.21:163][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.08.31:459][544]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.08.31:502][544]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.08.37:945][312]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.08.38:694][366]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.08.38:715][366]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.08.38:715][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.08.38:715][366]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:08:38)
+[2018.02.13-15.08.38:715][366]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.08.38:732][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016703s)
+[2018.02.13-15.08.38:733][366]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.08.38:733][366]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2018.02.13-15.08.38:733][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.017993s)
+[2018.02.13-15.08.38:754][366]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.08.38:783][366]LogInit: FAudioDevice initialized.
+[2018.02.13-15.08.38:822][366]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.08.38:827][366]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.08.38
+[2018.02.13-15.08.38:827][366]LogWorld: Bringing up level for play took: 0.004276
+[2018.02.13-15.08.38:833][366]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.671
+[2018.02.13-15.08.38:833][366]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.08.46:218][245]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.08.46:259][245]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.08.55:306][324]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.09.17:134][878]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.09.18:327][984]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.09.18:350][984]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.09.18:350][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.09.18:350][984]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:09:18)
+[2018.02.13-15.09.18:350][984]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.09.18:368][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018182s)
+[2018.02.13-15.09.18:369][984]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.09.18:369][984]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2018.02.13-15.09.18:370][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.019622s)
+[2018.02.13-15.09.18:392][984]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.09.18:421][984]LogInit: FAudioDevice initialized.
+[2018.02.13-15.09.18:459][984]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.09.18:463][984]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.09.18
+[2018.02.13-15.09.18:464][984]LogWorld: Bringing up level for play took: 0.003984
+[2018.02.13-15.09.18:469][984]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.307
+[2018.02.13-15.09.18:469][984]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.09.21:444][333]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.09.21:487][333]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.09.33:211][729]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.09.33:961][784]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.09.33:982][784]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.09.33:983][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.09.33:983][784]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:09:33)
+[2018.02.13-15.09.33:983][784]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.09.34:000][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016734s)
+[2018.02.13-15.09.34:000][784]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.09.34:001][784]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2018.02.13-15.09.34:001][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.018046s)
+[2018.02.13-15.09.34:021][784]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.09.34:050][784]LogInit: FAudioDevice initialized.
+[2018.02.13-15.09.34:093][784]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.09.34:097][784]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.09.34
+[2018.02.13-15.09.34:097][784]LogWorld: Bringing up level for play took: 0.003749
+[2018.02.13-15.09.34:103][784]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间-0.059
+[2018.02.13-15.09.34:103][784]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.09.35:036][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.09.35:082][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.09.40:102][487]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.09.41:113][572]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.09.41:134][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.09.41:134][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.09.41:134][572]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:09:41)
+[2018.02.13-15.09.41:134][572]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.09.41:151][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017246s)
+[2018.02.13-15.09.41:152][572]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.09.41:152][572]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2018.02.13-15.09.41:152][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.018502s)
+[2018.02.13-15.09.41:174][572]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.09.41:202][572]LogInit: FAudioDevice initialized.
+[2018.02.13-15.09.41:240][572]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.09.41:244][572]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.09.41
+[2018.02.13-15.09.41:245][572]LogWorld: Bringing up level for play took: 0.004206
+[2018.02.13-15.09.41:250][572]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间1.088
+[2018.02.13-15.09.41:251][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.09.45:523][ 76]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.09.45:566][ 76]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.09.50:001][604]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.09.50:989][687]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.09.51:012][687]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.09.51:012][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.09.51:012][687]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:09:51)
+[2018.02.13-15.09.51:012][687]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.09.51:031][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018611s)
+[2018.02.13-15.09.51:031][687]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.09.51:032][687]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2018.02.13-15.09.51:032][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.019963s)
+[2018.02.13-15.09.51:054][687]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.09.51:082][687]LogInit: FAudioDevice initialized.
+[2018.02.13-15.09.51:120][687]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.09.51:125][687]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.09.51
+[2018.02.13-15.09.51:125][687]LogWorld: Bringing up level for play took: 0.004131
+[2018.02.13-15.09.51:131][687]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.968
+[2018.02.13-15.09.51:131][687]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.10.26:436][911]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.10.26:479][911]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.13.51:392][724]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::GetRelativeTransform' [找不到元素。]
+[2018.02.13-15.14.11:628][ 26]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.14.12:330][ 75]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.14.12:350][ 75]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.14.12:350][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.14.12:350][ 75]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:14:12)
+[2018.02.13-15.14.12:350][ 75]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.14.12:369][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018977s)
+[2018.02.13-15.14.12:370][ 75]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.14.12:371][ 75]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2018.02.13-15.14.12:371][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.020557s)
+[2018.02.13-15.14.12:392][ 75]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.14.12:420][ 75]LogInit: FAudioDevice initialized.
+[2018.02.13-15.14.12:459][ 75]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.14.12:464][ 75]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.14.12
+[2018.02.13-15.14.12:465][ 75]LogWorld: Bringing up level for play took: 0.004651
+[2018.02.13-15.14.12:470][ 75]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.308
+[2018.02.13-15.14.12:471][ 75]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.14.16:088][490]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.14.16:130][490]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.16.27:766][140]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.16.28:444][185]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.16.28:465][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.16.28:465][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.16.28:465][185]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:16:28)
+[2018.02.13-15.16.28:465][185]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.16.28:483][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017818s)
+[2018.02.13-15.16.28:484][185]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.16.28:484][185]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2018.02.13-15.16.28:484][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.019088s)
+[2018.02.13-15.16.28:504][185]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.16.28:533][185]LogInit: FAudioDevice initialized.
+[2018.02.13-15.16.28:576][185]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.16.28:581][185]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.16.28
+[2018.02.13-15.16.28:581][185]LogWorld: Bringing up level for play took: 0.004017
+[2018.02.13-15.16.28:587][185]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.425
+[2018.02.13-15.16.28:587][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.16.33:984][821]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.16.34:030][821]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.16.42:012][772]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.16.42:035][772]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.16.42:035][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.16.42:036][772]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:16:42)
+[2018.02.13-15.16.42:036][772]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.16.42:056][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020513s)
+[2018.02.13-15.16.42:057][772]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.16.42:057][772]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2018.02.13-15.16.42:058][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.022020s)
+[2018.02.13-15.16.42:079][772]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.16.42:107][772]LogInit: FAudioDevice initialized.
+[2018.02.13-15.16.42:148][772]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.16.42:157][772]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.16.42
+[2018.02.13-15.16.42:157][772]LogWorld: Bringing up level for play took: 0.007587
+[2018.02.13-15.16.42:166][772]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.004
+[2018.02.13-15.16.42:167][772]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.17.12:977][298]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.17.13:021][298]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.17.18:923][  1]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.17.19:676][ 54]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.17.19:696][ 54]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.17.19:696][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.17.19:696][ 54]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:17:19)
+[2018.02.13-15.17.19:697][ 54]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.17.19:715][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018636s)
+[2018.02.13-15.17.19:716][ 54]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.17.19:716][ 54]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2018.02.13-15.17.19:717][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.020125s)
+[2018.02.13-15.17.19:736][ 54]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.17.19:765][ 54]LogInit: FAudioDevice initialized.
+[2018.02.13-15.17.19:805][ 54]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.17.19:810][ 54]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.17.19
+[2018.02.13-15.17.19:810][ 54]LogWorld: Bringing up level for play took: 0.004030
+[2018.02.13-15.17.19:816][ 54]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间-0.346
+[2018.02.13-15.17.19:817][ 54]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.17.27:125][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.17.27:173][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.17.31:949][424]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.17.36:032][877]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.17.36:053][877]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.17.36:053][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.17.36:054][877]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:17:36)
+[2018.02.13-15.17.36:054][877]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.17.36:072][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018265s)
+[2018.02.13-15.17.36:073][877]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.17.36:073][877]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2018.02.13-15.17.36:073][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.019587s)
+[2018.02.13-15.17.36:093][877]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.17.36:121][877]LogInit: FAudioDevice initialized.
+[2018.02.13-15.17.36:164][877]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.17.36:168][877]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.17.36
+[2018.02.13-15.17.36:169][877]LogWorld: Bringing up level for play took: 0.004271
+[2018.02.13-15.17.36:174][877]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.012
+[2018.02.13-15.17.36:175][877]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.17.48:404][329]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.17.48:448][329]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.18.34:576][478]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.18.35:380][537]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.18.35:402][537]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.18.35:402][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.18.35:402][537]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:18:35)
+[2018.02.13-15.18.35:402][537]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.18.35:421][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018438s)
+[2018.02.13-15.18.35:422][537]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.18.35:422][537]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2018.02.13-15.18.35:422][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.020061s)
+[2018.02.13-15.18.35:445][537]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.18.35:473][537]LogInit: FAudioDevice initialized.
+[2018.02.13-15.18.35:511][537]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.18.35:516][537]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.18.35
+[2018.02.13-15.18.35:516][537]LogWorld: Bringing up level for play took: 0.004161
+[2018.02.13-15.18.35:522][537]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间-0.64
+[2018.02.13-15.18.35:522][537]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.18.51:139][331]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.18.51:185][331]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.19.00:937][492]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.19.02:049][588]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.19.02:071][588]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.19.02:072][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.19.02:072][588]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:19:02)
+[2018.02.13-15.19.02:072][588]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.19.02:090][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018238s)
+[2018.02.13-15.19.02:091][588]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.19.02:091][588]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2018.02.13-15.19.02:092][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.019722s)
+[2018.02.13-15.19.02:113][588]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.19.02:141][588]LogInit: FAudioDevice initialized.
+[2018.02.13-15.19.02:183][588]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.19.02:188][588]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.19.02
+[2018.02.13-15.19.02:188][588]LogWorld: Bringing up level for play took: 0.004001
+[2018.02.13-15.19.02:195][588]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.033
+[2018.02.13-15.19.02:196][588]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.19.11:877][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.19.11:924][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.19.15:703][124]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.19.16:435][174]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.19.16:455][174]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.19.16:455][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.19.16:455][174]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:19:16)
+[2018.02.13-15.19.16:455][174]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.19.16:475][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019493s)
+[2018.02.13-15.19.16:475][174]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.19.16:476][174]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2018.02.13-15.19.16:476][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.020800s)
+[2018.02.13-15.19.16:497][174]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.19.16:525][174]LogInit: FAudioDevice initialized.
+[2018.02.13-15.19.16:567][174]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.19.16:572][174]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.19.16
+[2018.02.13-15.19.16:572][174]LogWorld: Bringing up level for play took: 0.003872
+[2018.02.13-15.19.16:579][174]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.416
+[2018.02.13-15.19.16:579][174]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.19.25:822][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.19.25:869][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.19.58:029][ 87]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FlyingBP/Maps/FlyingExampleMap' took 0.043
+[2018.02.13-15.19.58:031][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FlyingBP/Blueprints/FlyingGameMode] ([1] browsable assets)...
+[2018.02.13-15.19.58:031][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlyingBP/Blueprints/FlyingGameMode]
+[2018.02.13-15.19.58:051][ 87]LogSavePackage: Save=9.58ms
+[2018.02.13-15.19.58:051][ 87]LogSavePackage: Moving 'H:/UnrealProjects/AceLikeFlying_BP/Saved/FlyingGameMode_Auto2AAE242A04044047EC717DDB7F9C5D497.tmp' to 'H:/UnrealProjects/AceLikeFlying_BP/Saved/Autosaves/Game/FlyingBP/Blueprints/FlyingGameMode_Auto2.uasset'
+[2018.02.13-15.19.58:052][ 87]LogSavePackage: Display: Finished SavePackage H:/UnrealProjects/AceLikeFlying_BP/Saved/Autosaves/Game/FlyingBP/Blueprints/FlyingGameMode_Auto2.uasset
+[2018.02.13-15.19.58:052][ 87]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FlyingBP/Blueprints/AceLike_Test_0] ([1] browsable assets)...
+[2018.02.13-15.19.58:087][ 87]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FlyingBP/Blueprints/AceLike_Test_0.AceLike_Test_0]
+[2018.02.13-15.19.58:087][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlyingBP/Blueprints/AceLike_Test_0]
+[2018.02.13-15.19.58:375][ 87]LogSavePackage: Save=254.60ms
+[2018.02.13-15.19.58:375][ 87]LogSavePackage: Moving 'H:/UnrealProjects/AceLikeFlying_BP/Saved/AceLike_Test_0_Auto2D74462C54F88C9A68D0C58B41883346B.tmp' to 'H:/UnrealProjects/AceLikeFlying_BP/Saved/Autosaves/Game/FlyingBP/Blueprints/AceLike_Test_0_Auto2.uasset'
+[2018.02.13-15.19.58:376][ 87]LogSavePackage: Display: Finished SavePackage H:/UnrealProjects/AceLikeFlying_BP/Saved/Autosaves/Game/FlyingBP/Blueprints/AceLike_Test_0_Auto2.uasset
+[2018.02.13-15.19.58:376][ 87]LogFileHelpers: Auto-saving content packages took 0.345
+[2018.02.13-15.24.18:186][876]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.24.18:207][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.24.18:207][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.24.18:207][876]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:24:18)
+[2018.02.13-15.24.18:208][876]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.24.18:227][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019084s)
+[2018.02.13-15.24.18:228][876]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.24.18:228][876]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2018.02.13-15.24.18:228][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.020557s)
+[2018.02.13-15.24.18:250][876]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.24.18:279][876]LogInit: FAudioDevice initialized.
+[2018.02.13-15.24.18:322][876]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.24.18:327][876]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.24.18
+[2018.02.13-15.24.18:328][876]LogWorld: Bringing up level for play took: 0.004352
+[2018.02.13-15.24.18:334][876]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.171
+[2018.02.13-15.24.18:334][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.24.35:020][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.24.35:068][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.24.49:817][319]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.24.49:838][319]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.24.49:838][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.24.49:838][319]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:24:49)
+[2018.02.13-15.24.49:838][319]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.24.49:858][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020209s)
+[2018.02.13-15.24.49:859][319]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.24.49:860][319]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2018.02.13-15.24.49:860][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.022019s)
+[2018.02.13-15.24.49:881][319]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.24.49:910][319]LogInit: FAudioDevice initialized.
+[2018.02.13-15.24.49:952][319]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.24.49:956][319]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.24.49
+[2018.02.13-15.24.49:956][319]LogWorld: Bringing up level for play took: 0.003921
+[2018.02.13-15.24.49:962][319]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间-0.201
+[2018.02.13-15.24.49:962][319]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.24.51:978][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.24.52:021][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.24.53:952][773]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.24.53:973][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.24.53:973][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.24.53:973][773]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:24:53)
+[2018.02.13-15.24.53:973][773]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.24.53:991][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017510s)
+[2018.02.13-15.24.53:991][773]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.24.53:992][773]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2018.02.13-15.24.53:992][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.018998s)
+[2018.02.13-15.24.54:013][773]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.24.54:042][773]LogInit: FAudioDevice initialized.
+[2018.02.13-15.24.54:076][773]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.24.54:080][773]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.24.54
+[2018.02.13-15.24.54:081][773]LogWorld: Bringing up level for play took: 0.003679
+[2018.02.13-15.24.54:082][773]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间-0.08
+[2018.02.13-15.24.54:082][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.25.19:021][748]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.25.19:077][748]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.25.20:681][936]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.25.20:701][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.25.20:701][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.25.20:701][936]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:25:20)
+[2018.02.13-15.25.20:701][936]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.25.20:721][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019578s)
+[2018.02.13-15.25.20:722][936]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.25.20:722][936]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2018.02.13-15.25.20:722][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.021155s)
+[2018.02.13-15.25.20:745][936]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.25.20:774][936]LogInit: FAudioDevice initialized.
+[2018.02.13-15.25.20:805][936]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.25.20:809][936]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.25.20
+[2018.02.13-15.25.20:809][936]LogWorld: Bringing up level for play took: 0.004109
+[2018.02.13-15.25.20:811][936]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.648
+[2018.02.13-15.25.20:811][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.25.22:603][146]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.25.22:640][146]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.25.23:795][281]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.25.23:816][281]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.25.23:816][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.25.23:816][281]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:25:23)
+[2018.02.13-15.25.23:816][281]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.25.23:834][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018137s)
+[2018.02.13-15.25.23:835][281]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.25.23:835][281]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2018.02.13-15.25.23:835][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.019237s)
+[2018.02.13-15.25.23:859][281]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.25.23:888][281]LogInit: FAudioDevice initialized.
+[2018.02.13-15.25.23:921][281]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.25.23:925][281]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.25.23
+[2018.02.13-15.25.23:925][281]LogWorld: Bringing up level for play took: 0.003822
+[2018.02.13-15.25.23:927][281]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间-0.236
+[2018.02.13-15.25.23:927][281]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.25.37:555][896]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.25.37:610][896]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.26.14:451][ 69]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.26.16:844][320]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.26.16:867][320]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.26.16:867][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.26.16:867][320]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:26:16)
+[2018.02.13-15.26.16:867][320]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.26.16:884][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016917s)
+[2018.02.13-15.26.16:885][320]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.26.16:885][320]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2018.02.13-15.26.16:885][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.018236s)
+[2018.02.13-15.26.16:906][320]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.26.16:935][320]LogInit: FAudioDevice initialized.
+[2018.02.13-15.26.16:969][320]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.26.16:973][320]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.26.16
+[2018.02.13-15.26.16:974][320]LogWorld: Bringing up level for play took: 0.004031
+[2018.02.13-15.26.16:975][320]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.813
+[2018.02.13-15.26.16:976][320]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.26.57:037][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.26.57:098][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.26.59:167][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.26.59:167][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.26.59:167][345]PIE: New page: SIE 会话: FlyingExampleMap (2018年2月14日 上午7:26:59)
+[2018.02.13-15.26.59:167][345]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.26.59:185][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018149s)
+[2018.02.13-15.26.59:186][345]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.26.59:186][345]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2018.02.13-15.26.59:186][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.019200s)
+[2018.02.13-15.26.59:208][345]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.26.59:236][345]LogInit: FAudioDevice initialized.
+[2018.02.13-15.26.59:266][345]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.26.59:292][345]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.26.59
+[2018.02.13-15.26.59:293][345]LogWorld: Bringing up level for play took: 0.025709
+[2018.02.13-15.26.59:293][345]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间1.131
+[2018.02.13-15.26.59:325][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.27.04:234][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.27.04:291][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.29.48:364][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.29.48:364][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.29.48:364][817]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:29:48)
+[2018.02.13-15.29.48:364][817]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.29.48:383][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018516s)
+[2018.02.13-15.29.48:384][817]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.29.48:384][817]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2018.02.13-15.29.48:384][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.019875s)
+[2018.02.13-15.29.48:406][817]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.29.48:435][817]LogInit: FAudioDevice initialized.
+[2018.02.13-15.29.48:466][817]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.29.48:470][817]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.29.48
+[2018.02.13-15.29.48:471][817]LogWorld: Bringing up level for play took: 0.003843
+[2018.02.13-15.29.48:472][817]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3412.172 Y=1901.224 Z=1389.072] for [AceLike_Test_0_C]
+[2018.02.13-15.29.48:472][817]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type AceLike_Test_0_C at Rotation: Pitch 0.000000 Yaw -74.259918 Roll 0.000000
+Translation: 3412.171875 1901.224121 1389.072388
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.13-15.29.48:472][817]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.31
+[2018.02.13-15.29.48:472][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.29.50:620][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.29.50:654][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.29.51:415][158]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.29.51:434][158]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.29.51:434][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.29.51:434][158]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:29:51)
+[2018.02.13-15.29.51:435][158]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.29.51:452][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017332s)
+[2018.02.13-15.29.51:452][158]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.29.51:453][158]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2018.02.13-15.29.51:453][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.018354s)
+[2018.02.13-15.29.51:474][158]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.29.51:502][158]LogInit: FAudioDevice initialized.
+[2018.02.13-15.29.51:533][158]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.29.51:537][158]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.29.51
+[2018.02.13-15.29.51:537][158]LogWorld: Bringing up level for play took: 0.003687
+[2018.02.13-15.29.51:538][158]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [AceLike_Test_0_C]
+[2018.02.13-15.29.51:538][158]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type AceLike_Test_0_C at Rotation: Pitch 0.000000 Yaw -74.259865 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.13-15.29.51:539][158]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间-0.624
+[2018.02.13-15.29.51:539][158]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.29.52:272][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.29.52:304][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.29.54:796][519]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.29.54:815][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.29.54:815][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.29.54:816][519]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:29:54)
+[2018.02.13-15.29.54:816][519]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.29.54:834][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018207s)
+[2018.02.13-15.29.54:835][519]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.29.54:836][519]LogPlayLevel: PIE: World Init took: (0.001849s)
+[2018.02.13-15.29.54:836][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.020739s)
+[2018.02.13-15.29.54:859][519]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.29.54:891][519]LogInit: FAudioDevice initialized.
+[2018.02.13-15.29.54:926][519]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.29.54:931][519]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.29.54
+[2018.02.13-15.29.54:931][519]LogWorld: Bringing up level for play took: 0.004421
+[2018.02.13-15.29.54:932][519]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.77
+[2018.02.13-15.29.54:933][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.30.02:283][396]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.30.02:317][396]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.30.21:192][366]BlueprintLog: New page: 编译AceLike_Test_0
+[2018.02.13-15.30.22:085][436]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.30.22:105][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.30.22:105][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.13-15.30.22:105][436]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:30:22)
+[2018.02.13-15.30.22:105][436]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.30.22:122][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017179s)
+[2018.02.13-15.30.22:123][436]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.30.22:123][436]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2018.02.13-15.30.22:124][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.018451s)
+[2018.02.13-15.30.22:144][436]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.30.22:172][436]LogInit: FAudioDevice initialized.
+[2018.02.13-15.30.22:212][436]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.30.22:217][436]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.30.22
+[2018.02.13-15.30.22:217][436]LogWorld: Bringing up level for play took: 0.004419
+[2018.02.13-15.30.22:223][436]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.061
+[2018.02.13-15.30.22:223][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.30.25:985][880]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.30.26:027][880]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.30.32:510][649]LogTemp: Repeating last play command: 选中的视口
+[2018.02.13-15.30.32:534][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.30.32:534][649]BlueprintLog: New page: 运行前自动重新编译
+[2018.02.13-15.30.32:555][649]LogPlayLevel: [PlayLevel] Compiling AceLike_Test_0 before play...
+[2018.02.13-15.30.32:825][649]LogPlayLevel: PlayLevel: Blueprint regeneration took 290 ms (1 blueprints)
+[2018.02.13-15.30.32:825][649]PIE: New page: PIE会话: FlyingExampleMap (2018年2月14日 上午7:30:32)
+[2018.02.13-15.30.32:825][649]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.02.13-15.30.32:842][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017437s)
+[2018.02.13-15.30.32:843][649]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.02.13-15.30.32:843][649]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2018.02.13-15.30.32:844][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.018802s)
+[2018.02.13-15.30.32:865][649]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.13-15.30.32:893][649]LogInit: FAudioDevice initialized.
+[2018.02.13-15.30.32:931][649]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.02.13-15.30.32:935][649]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.02.13-23.30.32
+[2018.02.13-15.30.32:935][649]LogWorld: Bringing up level for play took: 0.004007
+[2018.02.13-15.30.32:941][649]PIE: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap的‘在编辑器中播放’的起始时间0.779
+[2018.02.13-15.30.32:941][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.30.48:608][356]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.30.48:657][356]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.02.13-15.30.57:527][965]LogEditorTransaction: Undo 编辑Cam Horizontal Lerp Alpha
+[2018.02.13-15.30.57:703][965]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.174 s
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: 
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: 
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: Stack: 
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000048D2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x000000000467123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x000000000468B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FFC50B7C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FFBFDE01 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FC942643 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FC9434D9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FC9874B8 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FC87F2C8 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FC7FA797 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FC7FFA57 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FC7A8635 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FC8A28CE UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FC7FB877 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FC800BB7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x0000000001153675 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x0000000000F68CAA UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x0000000000F08824 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FE489844 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FE55A5E9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FE559AD7 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FE51F8B7 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.13-15.30.57:704][965]LogOutputDevice: Error: [Callstack] 0x00000000FC4095A3 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FC43CD34 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FC3CA8FB UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FC3D039A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FC3CEBD7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FC46461C UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FC4836B6 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FE4EEF3B UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FE15D7DB UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FE1DDA3D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FE22E0CD UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FFBFEA46 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FFC26112 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FFC0DCE9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FFC0E61B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FFC728FB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FFCB5A0E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FE1B0FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x00000000FE1B5D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x0000000000F09636 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x0000000000F483A0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x000000000046BE9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x0000000000457803 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x0000000000EF63A1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x0000000000EC700E UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x0000000000EC8C16 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x0000000000F4988C UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x0000000000F3BEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.13-15.30.57:705][965]LogOutputDevice: Error: [Callstack] 0x0000000016C4E28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.13-15.30.57:706][965]LogOutputDevice: Error: [Callstack] 0x0000000016C41A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.13-15.30.57:706][965]LogOutputDevice: Error: [Callstack] 0x0000000016C503EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.13-15.30.57:706][965]LogOutputDevice: Error: [Callstack] 0x0000000016C3D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.13-15.30.57:706][965]LogOutputDevice: Error: [Callstack] 0x0000000043221C24 USER32.dll!UnknownFunction []
+[2018.02.13-15.30.57:706][965]LogOutputDevice: Error: [Callstack] 0x000000004322156C USER32.dll!UnknownFunction []
+[2018.02.13-15.30.57:706][965]LogOutputDevice: Error: [Callstack] 0x0000000016C51516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.13-15.30.57:706][965]LogOutputDevice: Error: [Callstack] 0x0000000036C450C8 UE4Editor.exe!UnknownFunction []
+[2018.02.13-15.30.57:706][965]LogOutputDevice: Error: [Callstack] 0x0000000036C55430 UE4Editor.exe!UnknownFunction []
+[2018.02.13-15.30.57:706][965]LogOutputDevice: Error: [Callstack] 0x0000000036C554AA UE4Editor.exe!UnknownFunction []
+[2018.02.13-15.30.57:706][965]LogOutputDevice: Error: [Callstack] 0x0000000036C62379 UE4Editor.exe!UnknownFunction []
+[2018.02.13-15.30.57:706][965]LogOutputDevice: Error: [Callstack] 0x0000000036C63D57 UE4Editor.exe!UnknownFunction []
+[2018.02.13-15.30.57:706][965]LogOutputDevice: Error: [Callstack] 0x0000000042C28364 KERNEL32.DLL!UnknownFunction []
+[2018.02.13-15.30.57:706][965]LogOutputDevice: Error: [Callstack] 0x00000000434A7091 ntdll.dll!UnknownFunction []
+[2018.02.13-15.30.57:706][965]LogOutputDevice: Error: 
+[2018.02.13-15.30.57:707][965]LogStats:                SubmitErrorReport -  0.000 s
